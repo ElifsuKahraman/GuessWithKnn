@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ShoeSize:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ShoeSize_jar</output-path>
+    <root id="archive" name="ShoeSize.jar">
+      <element id="module-output" name="GuessWithKnn" />
+    </root>
+  </artifact>
+</component>
